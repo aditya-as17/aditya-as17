@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on my **open source MIT-CSE curriculum from MIT OCW for self educating developers.**
 - 🤔 I’m looking for help with - **not anything rn**.
 - 💬 Ask me about **business, finance, technology**
-- 📫 How to reach me: via my personal website - **https://www.sharmaaditya.in/**
+- 📫 How to reach me: via my personal website - **https://www.adityasharma.xyz/**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am adding information here despite me having a personal website**
