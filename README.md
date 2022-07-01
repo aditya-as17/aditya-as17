@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **financial markets and economy**.
-- 🌱 I’m currently learning **R and statistical models to better analyze financial and business data**.
-- 👯 I’m looking to collaborate on my **open source MIT-CSE curriculum from MIT OCW for self educating developers.**
+- 🌱 I’m currently learning **python and statistical models to better analyze financial and business data**.
+<!-- - 👯 I’m looking to collaborate on my **open source MIT-CSE curriculum from MIT OCW for self educating developers.** -->
 - 🤔 I’m looking for help with - **not anything rn**.
 - 💬 Ask me about **business, finance, technology**
 - 📫 How to reach me: via my personal website - **https://www.adityasharma.xyz/**
